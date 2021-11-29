@@ -18,6 +18,12 @@ Utilizar los conocimientos adquiridos en clase sobre el análisis de nodos por m
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+**Materiales**
+
+**Circuito analizado**
+
+**Procedimiento**
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 # 5. VIDEO
