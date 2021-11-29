@@ -20,6 +20,8 @@ Utilizar los conocimientos adquiridos en clase sobre el análisis de nodos por m
 
 **Materiales**
 
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/13.png)
+
 **Circuito analizado**
 
 **Procedimiento**
