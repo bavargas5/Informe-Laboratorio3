@@ -38,15 +38,25 @@ Utilizar los conocimientos adquiridos en clase sobre el análisis de nodos por m
 
 - Generar las ecuaciones
 
+Utiizar ley de Kirchhoff y ley de Ohm
+
 ![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/4.png)
+
+Analizar la direccion de las corrientes y los voltajes algebraicamente
 
 ![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/5.png)
 
 ![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/6.png)
 
+Con estas ecuaciones planteadas obtenemos un sistema de ecuaciones con dos incognitas
+
 - Sistema de ecuaciones
 
+Solucionamos el sistema de ecuaiones y obtenemos los voltajes para cada nodo
+
 ![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/7.png)
+
+Utilizamos la herramienta en linea Symbolab
 
 ![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/8.png)
 
@@ -56,7 +66,29 @@ Utilizar los conocimientos adquiridos en clase sobre el análisis de nodos por m
 
 ![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/11.png)
 
+**Simulación en Proteus**
+
+**Simulación en Tinkercad**
+
+**Recopilacion de datos**
+
+| NODO | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| RESULTADOS SIMULADOS |
+| ------------- | ------------- | ------------- | ------------- |
+| b | 2.82 V |  |  |
+| c | 4.80 V |  |  |
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| % ERROR|
+| ------------- | ------------- | ------------- | ------------- |
+| b | 2.82 V |  |  |
+| c | 4.80 V |  |  |
+
+| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS SIMULADOS| % ERROR |
+| ------------- | ------------- | ------------- | ------------- |
+| b | 2.82 V |  |  |
+| c | 4.80 V |  |  |
+
 
 # 5. VIDEO
 
