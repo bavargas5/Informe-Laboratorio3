@@ -24,7 +24,37 @@ Utilizar los conocimientos adquiridos en clase sobre el análisis de nodos por m
 
 **Circuito analizado**
 
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/1.png)
+
 **Procedimiento**
+
+- Identificar los nodos
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/2.png)
+
+- Reconocer las corrientes de cada nodo
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/3.png)
+
+- Generar las ecuaciones
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/4.png)
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/5.png)
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/6.png)
+
+- Sistema de ecuaciones
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/7.png)
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/8.png)
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/9.png)
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/10.png)
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/11.png)
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
