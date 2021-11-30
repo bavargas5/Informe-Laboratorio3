@@ -74,6 +74,14 @@ Utilizamos la herramienta en linea Symbolab
 
 **Simulación en Tinkercad**
 
+Digrama Esquematico implementado como Circuito Experimental
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/Img%20E/Lab%203%20E1.JPG)
+
+Circuito Experimental modificado par medidas con Nodo de Referencia
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/Img%20E/Lab%203%20E2.JPG)
+
 **Recopilacion de datos**
 
 | NODO | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| RESULTADOS SIMULADOS |
