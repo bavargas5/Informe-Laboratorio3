@@ -98,8 +98,8 @@ Circuito Experimental modificado par medidas con Nodo de Referencia
 
 | MALLA | RESULTADOS ANALÍTICOS | RESULTADOS SIMULADOS| % ERROR |
 | ------------- | ------------- | ------------- | ------------- |
-| b | 2.82 V | 2.82 | 0 % |
-| c | 4.80 V | 4.80 | 0 % |
+| b | 2.82 V | 2.82 V | 0 % |
+| c | 4.80 V | 4.80 V | 0 % |
 
 
 # 5. VIDEO
