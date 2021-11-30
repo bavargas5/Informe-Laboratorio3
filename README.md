@@ -104,6 +104,8 @@ Circuito Experimental modificado par medidas con Nodo de Referencia
 
 # 5. VIDEO
 
+https://youtu.be/xBCg91JDg3E
+
 # 6. CONCLUSIONES
 
 -	En conclusión, se logró identificar los nodos respectivos para aplicar el método del análisis de nodos.
