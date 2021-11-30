@@ -16,6 +16,8 @@ Utilizar los conocimientos adquiridos en clase sobre el análisis de nodos por m
 
 # 2. MARCO TEÓRICO
 
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBN/Diagrama%20en%20blanco%20(5).png)
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 **Materiales**
@@ -67,6 +69,8 @@ Utilizamos la herramienta en linea Symbolab
 ![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBV/11.png)
 
 **Simulación en Proteus**
+
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/IMGBN/087b4e3e-5de4-4732-a1cf-6e51b9d9ee73.jpg)
 
 **Simulación en Tinkercad**
 
