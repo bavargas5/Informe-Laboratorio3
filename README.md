@@ -96,11 +96,14 @@ Circuito Experimental modificado par medidas con Nodo de Referencia
 | b | 2.82 V | 2.82 V | 0 % |
 | c | 4.80 V | 4.80 V | 0 % |
 
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/Img%20E/Lab%203%20ME.JPG)
+
 | MALLA | RESULTADOS ANALÍTICOS | RESULTADOS SIMULADOS| % ERROR |
 | ------------- | ------------- | ------------- | ------------- |
 | b | 2.82 V | 2.82 V | 0 % |
 | c | 4.80 V | 4.80 V | 0 % |
 
+![](https://github.com/bavargas5/Informe-Laboratorio3/blob/main/Img%20E/Lab%203%20MS.JPG)
 
 # 5. VIDEO
 
