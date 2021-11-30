@@ -104,3 +104,5 @@ Utilizamos la herramienta en linea Symbolab
 
 
 # 7. BIBLIOGRAFÍA
+
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
